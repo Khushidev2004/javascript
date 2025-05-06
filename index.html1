@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<p>Before the script...</p>
+<script src="file_1.js"></script>
+<script src="file_2.js"></script>
+<script src="file_3.js"></script>
+<p>...After the script.</p>
+</body>
+</html>
